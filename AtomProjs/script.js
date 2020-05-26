@@ -42,7 +42,7 @@ function dispart(text, k)
    return msgs;
 }
 
-function lenwords(words)
+function len(words)
 {
    return words.join(' ').length;
 }
